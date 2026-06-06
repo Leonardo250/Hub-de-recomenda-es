@@ -4,7 +4,7 @@
 O HubA é uma API REST desenvolvida em Java com Spring Boot que atua como um agregador e filtro inteligente de animes. O objetivo principal do projeto é consumir dados da API pública do Jikan (MyAnimeList) e aplicar regras de negócio customizadas para filtrar e recomendar apenas o "suprassumo" das produções (como clássicos dos anos 90 e 2000, como Cowboy Bebop), eliminando repetições de tropos modernos e genéricos.
 
 🛠️ Tecnologias Utilizadas
-Java 17 & Spring Boot 3
+Java 21 & Spring Boot 3
 
 Spring WebFlux (WebClient) - Para consumo assíncrono e performático de APIs externas.
 
